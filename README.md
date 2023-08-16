@@ -8,7 +8,12 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=software%20Engineering;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+</p>
+
+<br>
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="500px" align="right"  />
+ <br><br>
+
 
 - 🏢 I'm a Software Engineer and currently, I am a computer science student at Al-Ahram Canadian University. 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
