@@ -36,6 +36,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![c++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;
 ![python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
